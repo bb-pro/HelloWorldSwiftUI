@@ -14,6 +14,7 @@ struct ContentView: View {
                 Text("Hello, SwiftUI!")
                     .font(.title)
                     .foregroundColor(.red)
+                SwiftLogoView()
                 HStack {
                     Text("This is SwiftUI View")
                         .font(.subheadline)

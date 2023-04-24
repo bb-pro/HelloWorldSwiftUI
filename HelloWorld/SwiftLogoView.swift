@@ -13,7 +13,7 @@ struct SwiftLogoView: View {
             .foregroundColor(.orange)
             .frame(height: 150)
     }
-}
+} 
 
 struct SwiftLogoView_Previews: PreviewProvider {
     static var previews: some View {
