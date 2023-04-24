@@ -11,6 +11,7 @@
 		809E4DA029F36D0F0006B4FC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 809E4D9F29F36D0F0006B4FC /* ContentView.swift */; };
 		809E4DA229F36D100006B4FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 809E4DA129F36D100006B4FC /* Assets.xcassets */; };
 		809E4DA529F36D100006B4FC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 809E4DA429F36D100006B4FC /* Preview Assets.xcassets */; };
+		809E4DAC29F374A60006B4FC /* SwiftLogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 809E4DAB29F374A60006B4FC /* SwiftLogoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		809E4D9F29F36D0F0006B4FC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		809E4DA129F36D100006B4FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		809E4DA429F36D100006B4FC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		809E4DAB29F374A60006B4FC /* SwiftLogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftLogoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				809E4D9D29F36D0F0006B4FC /* HelloWorldApp.swift */,
 				809E4D9F29F36D0F0006B4FC /* ContentView.swift */,
+				809E4DAB29F374A60006B4FC /* SwiftLogoView.swift */,
 				809E4DA129F36D100006B4FC /* Assets.xcassets */,
 				809E4DA329F36D100006B4FC /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				809E4DA029F36D0F0006B4FC /* ContentView.swift in Sources */,
+				809E4DAC29F374A60006B4FC /* SwiftLogoView.swift in Sources */,
 				809E4D9E29F36D0F0006B4FC /* HelloWorldApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
